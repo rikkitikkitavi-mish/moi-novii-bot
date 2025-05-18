@@ -6,9 +6,9 @@ theme: /
         q!: $regex</start>
         a: Привет, пирожок!
         buttons:
-            "Нажми сейчас"
+            "Нажми сейчас" -> /Пока
         image: https://eu-prod-bs.s3.eu-central-1.amazonaws.com/eu-prod-bs/1007741/4043489/9bcwXLVgjAN3iYDy.png
-        go!: /Пока
+        go!: 
 
     state: Hello
         intent!: /hello
