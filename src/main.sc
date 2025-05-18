@@ -10,10 +10,6 @@ theme: /
         image: https://eu-prod-bs.s3.eu-central-1.amazonaws.com/eu-prod-bs/1007741/4043489/9bcwXLVgjAN3iYDy.png
         go!: 
 
-    state: Hello
-        intent!: /hello
-        a: Hello hello
-
     state: Bye
         intent!: /bye
         a: Bye bye
